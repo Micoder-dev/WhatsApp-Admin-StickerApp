@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NewStickers.iml" filepath="$PROJECT_DIR$/NewStickers.iml" group="NewStickers" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="NewStickers/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WhatsApp-Stickers-Emoji-App.iml" filepath="$PROJECT_DIR$/.idea/modules/WhatsApp-Stickers-Emoji-App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WhatsApp-Stickers-Emoji-App.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WhatsApp-Stickers-Emoji-App.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WhatsApp-Stickers-Emoji-App.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WhatsApp-Stickers-Emoji-App.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WhatsApp-Stickers-Emoji-App.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WhatsApp-Stickers-Emoji-App.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WhatsApp-Stickers-Emoji-App.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WhatsApp-Stickers-Emoji-App.app.unitTest.iml" />
     </modules>
   </component>
 </project>
